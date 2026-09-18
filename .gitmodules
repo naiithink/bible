@@ -1,0 +1,3 @@
+[submodule "scripture/osis/bible.gratis-bible.bible"]
+	path = scripture/osis/bible.gratis-bible.bible
+	url = https://github.com/naiithink/bible.gratis-bible.bible.git

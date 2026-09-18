@@ -4,3 +4,6 @@
 [submodule "scripture/zefania/bible.biblenerd.zefania-xml-preservation"]
 	path = scripture/zefania/bible.biblenerd.zefania-xml-preservation
 	url = https://github.com/naiithink/bible.biblenerd.zefania-xml-preservation.git
+[submodule "scripture/other/bible.beblia.holy-bible-xml-format"]
+	path = scripture/other/bible.beblia.holy-bible-xml-format
+	url = https://github.com/naiithink/bible.beblia.holy-bible-xml-format.git

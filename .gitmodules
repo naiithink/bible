@@ -1,3 +1,6 @@
 [submodule "scripture/osis/bible.gratis-bible.bible"]
 	path = scripture/osis/bible.gratis-bible.bible
 	url = https://github.com/naiithink/bible.gratis-bible.bible.git
+[submodule "scripture/zefania/bible.biblenerd.zefania-xml-preservation"]
+	path = scripture/zefania/bible.biblenerd.zefania-xml-preservation
+	url = https://github.com/naiithink/bible.biblenerd.zefania-xml-preservation.git
